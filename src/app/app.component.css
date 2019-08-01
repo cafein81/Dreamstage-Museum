@@ -1,0 +1,249 @@
+.mat-sidenav-container,
+.mat-sidenav-content,
+.mat-tab-body-content {
+  transform: none !important;
+}
+
+.toolbar {
+  height: 100px;
+  color: #00205b;
+}
+
+.mat-toolbar {
+  color: #00205b;
+  background: #00205b;
+}
+
+.logo {
+  font-size: 25px;
+  color: #ffffff;
+  font-weight: 300;
+  margin: 0 auto;
+  font-family: "Libre Baskerville", serif;
+  letter-spacing: 2px;
+}
+
+.brief {
+  padding-top: 50px;
+  text-align: center;
+  max-width: 880px;
+  margin: 0 auto;
+}
+
+.title {
+  font-family: "Libre Baskerville", serif;
+  font-size: 25px;
+  font-weight: 300;
+  color: #00205b;
+}
+
+.content {
+  margin-top: 40px;
+  text-align: justify;
+  text-justify: inter-word;
+  font-size: 18px;
+  font-family: "Roboto", sans-serif;
+  font-weight: 400;
+  color: #333333;
+  line-height: 30px;
+}
+
+.mohamadali {
+  width: 100%;
+  height: 700px;
+}
+
+.Int-Hob {
+  height: auto;
+  width: 100%;
+}
+
+.left-side {
+  height: 700px;
+  width: 100%;
+  padding: 40px;
+}
+
+.left-side h1 {
+  font-family: "Libre Baskerville", serif;
+  font-size: 25px;
+  font-weight: 300;
+  color: #00205b;
+}
+
+.left-side p {
+  margin-top: 20px;
+  text-align: justify;
+  text-justify: inter-word;
+  font-size: 16px;
+  font-family: "Roboto", sans-serif;
+  font-weight: 400;
+  color: #333333;
+  line-height: 30px;
+}
+
+.right-side {
+  height: 700px;
+  width: 100%;
+  padding: 112px;
+}
+
+.prop-left-side {
+  height: 700px;
+  width: 100%;
+  padding: 40px;
+}
+
+.prop-left-side h1 {
+  font-family: "Libre Baskerville", serif;
+  font-size: 25px;
+  font-weight: 300;
+  color: #00205b;
+}
+
+.prop-left-side p {
+  margin-top: 20px;
+  text-align: justify;
+  text-justify: inter-word;
+  font-size: 16px;
+  font-family: "Roboto", sans-serif;
+  font-weight: 400;
+  color: #333333;
+  line-height: 30px;
+}
+
+.prop-right-side {
+  height: 700px;
+  width: 100%;
+  padding: 112px;
+}
+
+.tour {
+  padding-top: 40px;
+}
+
+.tour-heading h1 {
+  font-family: "Libre Baskerville", serif;
+  font-size: 25px;
+  font-weight: 300;
+  color: #00205b;
+  padding-left: 40px;
+}
+
+.img-1 {
+  width: 250px;
+  height: 250px;
+  background-image: url("/assets/M04_1.JPG");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: 50% 50%;
+}
+
+.img-2 {
+  width: 250px;
+  height: 250px;
+  background-image: url("/assets/M04_3.JPG");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: 50% 50%;
+}
+
+.img-3 {
+  width: 250px;
+  height: 250px;
+  background-image: url("/assets/M04_4.JPG");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: 50% 50%;
+}
+
+.img-4 {
+  width: 250px;
+  height: 250px;
+  background-image: url("/assets/M04_5.JPG");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: 50% 50%;
+}
+
+.img-5 {
+  width: 250px;
+  height: 250px;
+  background-image: url("/assets/M04_6.JPG");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: 50% 50%;
+}
+
+.img-6 {
+  width: 250px;
+  height: 250px;
+  background-image: url("/assets/M04_7.JPG");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: 50% 50%;
+}
+
+.img-7 {
+  width: 250px;
+  height: 250px;
+  background-image: url("/assets/M04_8.JPG");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: 50% 50%;
+}
+
+.img-8 {
+  width: 250px;
+  height: 250px;
+  background-image: url("/assets/M02.JPG");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: 50% 50%;
+}
+
+::ng-deep .mat-step-header .mat-step-icon {
+  background-color: #00205b;
+}
+
+.site-card {
+  width: 100%;
+  height: 500px;
+}
+
+.fur-read {
+  text-align: justify;
+  text-justify: inter-word;
+  font-family: "Roboto", sans-serif;
+  color: #333333;
+}
+.fur-read-img img {
+  width: 150px;
+  height: 220px;
+}
+
+.mat-tit {
+  color: #666666;
+}
+
+.contact-link a {
+  text-decoration: none;
+  color: #333333;
+}
+
+.contact-link a:hover {
+  text-decoration: none;
+  color: dodgerblue;
+}
+
+.museum-image {
+  height: 250px;
+  width: 100%;
+}
+
+.museum-text {
+  text-align: justify;
+  text-justify: inter-word;
+  font-family: "Roboto", sans-serif;
+  color: #333333;
+}

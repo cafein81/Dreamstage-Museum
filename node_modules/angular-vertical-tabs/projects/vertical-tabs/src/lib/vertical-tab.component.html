@@ -1,0 +1,10 @@
+<div *ngIf="active" class="pane">
+  <h3 class="tab-heading" *ngIf="tabsService.multi && tabsService.selectedOptions.length > 1">
+    {{tabTitle}}
+  </h3>
+  <ng-content></ng-content>
+  <ng-container *ngIf="template"
+                [ngTemplateOutlet]="template"
+                [ngTemplateOutletContext]="{person: dataContext}">
+  </ng-container>
+</div>
